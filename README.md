@@ -7,3 +7,4 @@ Three scripts are provided in the scripts/ folder.
 
 Petit test
 Second petit test pour squash merge
+
