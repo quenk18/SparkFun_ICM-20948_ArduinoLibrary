@@ -6,3 +6,4 @@ Three scripts are provided in the scripts/ folder.
 * The projectRunDMP.sh runs the executable to output quaternions using the DMP of the ICM-29048.
 
 Petit test
+Second petit test pour squash merge
